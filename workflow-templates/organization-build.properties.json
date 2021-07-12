@@ -1,0 +1,12 @@
+{
+    "name": "Organization Build Workflow",
+    "description": "Organization Build CI workflow template.",
+    "iconName": "OpenShift",
+    "categories": [
+        "Java"
+    ],
+    "filePatterns": [
+        ".*\\.jav$",
+        ".*\\.java$"
+    ]
+}
